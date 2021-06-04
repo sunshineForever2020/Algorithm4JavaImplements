@@ -7,6 +7,7 @@ public class HelloWorld {
     {
         StdOut.println("Hello, world!");
         StdOut.println("Hello, Java!");
+        StdOut.println("Hello, Wang yonghui!");
     }
 }
 
