@@ -8,6 +8,7 @@ public class HelloWorld {
         StdOut.println("Hello, world!");
         StdOut.println("Hello, Java!");
         StdOut.println("Hello, Wang yonghui!");
+        StdOut.println("以上实验 Git 功能及工作流！");
     }
 }
 
